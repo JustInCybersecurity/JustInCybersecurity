@@ -1,12 +1,16 @@
 <h1>Hi, I'm Justin!</h1>
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
-- <b>Azure SIEM Project</b>
-  - [Creating A Personal SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Personal Azure SIEM]
+ 
+<h2>📝 Certifications</h2>
+
+  - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/MCV3SDZE5YUH)
+  - [Google IT Support Professional](https://coursera.org/share/f2762d902ff649484922f78957566f2f)
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-[linkedin]:https://www.linkedin.com/in/justin-potter-b40844163/
+
+  - [LinkedIn](https://www.linkedin.com/in/justin-potter-b40844163/)
 
 <!--
 **JustInCybersecurity/JustInCybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
