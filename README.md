@@ -2,6 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
   - [Personal Azure SIEM](https://github.com/JustInCybersecurity/PersonalAzureSIEM.git)
+  - [Analyze Network Traffic with TCPDump](https://github.com/JustInCybersecurity/NetworkTrafficAnalyzation)
  
 <h2>📝 Certifications</h2>
 
