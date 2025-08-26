@@ -1,6 +1,7 @@
 <h1>Hi, I'm Justin!</h1>
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
+  - [Suspicious XLS File Analysis](https://github.com/JustInCybersecurity/Suspicious-XLS-File-Analysis)
   - [SOC Analyst](https://github.com/JustInCybersecurity/LetsDefend-Portfolio)
   - [Personal Azure SIEM](https://github.com/JustInCybersecurity/PersonalAzureSIEM.git)
   - [Analyze Network Traffic with TCPDump](https://github.com/JustInCybersecurity/NetworkTrafficAnalyzation)
